@@ -28,12 +28,13 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/mlg404/bootcamp-goStack-desafio-02.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/mlg404/bootcamp-goStack-desafio-02.svg">
+  <a href="https://github.com/mlg404/bootcamp-gostack-desafio-02/blob/master/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/mlg404/bootcamp-goStack-desafio-02.svg">
+  </a>
+
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
 </p>
 
@@ -64,7 +65,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 -  [bcryptjs](https://github.com/dcodeIO/bcrypt.js)
 -  [Sequelize](https://sequelize.org/)
 -  [JsonWebToken](https://jwt.io/)
--
 -  [VS Code][vc] com [EditorConfig][vceditconfig],  [ESLint][vceslint] e [Prettier][vcprettier]
 
 ## :information_source: Como usar
